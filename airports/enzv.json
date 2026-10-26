@@ -1,0 +1,361 @@
+{
+  "$schema": "../schema/airport.schema.json",
+  "schema_version": 1,
+  "airport": {
+    "icao": "ENZV",
+    "name": "Stavanger Sola",
+    "country": "Norway",
+    "latitude": 58.88161003156681,
+    "longitude": 5.628911925096464
+  },
+  "data_status": "unreviewed",
+  "reviewed_at": null,
+  "sources": [
+    {
+      "id": "vatsca-import",
+      "kind": "import",
+      "url": "https://github.com/Vatsim-Scandinavia/stands/blob/00fcf662237782e5ac300b14710f555730c3fbe0/public/data/enzv.json",
+      "reference": "VATSIM Scandinavia stands, public/data/enzv.json, commit 00fcf662237782e5ac300b14710f555730c3fbe0",
+      "effective_date": null,
+      "accessed_at": "2026-10-26"
+    }
+  ],
+  "stands": [
+    {
+      "id": "7",
+      "latitude": 58.88100556,
+      "longitude": 5.62621389,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "8",
+      "latitude": 58.88093056,
+      "longitude": 5.62692222,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "9",
+      "latitude": 58.88079167,
+      "longitude": 5.627575,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "10",
+      "latitude": 58.88071389,
+      "longitude": 5.62821667,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "11",
+      "latitude": 58.88075278,
+      "longitude": 5.629,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "12",
+      "latitude": 58.88094167,
+      "longitude": 5.62955278,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "13",
+      "latitude": 58.88137222,
+      "longitude": 5.63005,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "14",
+      "latitude": 58.88165,
+      "longitude": 5.63058056,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "15",
+      "latitude": 58.88199722,
+      "longitude": 5.63090833,
+      "max_wingspan_m": null,
+      "aircraft_code": "D",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "16",
+      "latitude": 58.88236944,
+      "longitude": 5.63086111,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "17",
+      "latitude": 58.88274722,
+      "longitude": 5.63066667,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "18",
+      "latitude": 58.88311944,
+      "longitude": 5.63042778,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "19",
+      "latitude": 58.88346667,
+      "longitude": 5.62999444,
+      "max_wingspan_m": null,
+      "aircraft_code": "D",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "20",
+      "latitude": 58.88373333,
+      "longitude": 5.62920833,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "21",
+      "latitude": 58.88401944,
+      "longitude": 5.62865833,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "22",
+      "latitude": 58.88430556,
+      "longitude": 5.62810833,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "23",
+      "latitude": 58.88459167,
+      "longitude": 5.62755556,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "24",
+      "latitude": 58.88488611,
+      "longitude": 5.627025,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "25",
+      "latitude": 58.88563056,
+      "longitude": 5.627497222,
+      "max_wingspan_m": null,
+      "aircraft_code": "B",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "26",
+      "latitude": 58.88595833,
+      "longitude": 5.626863889,
+      "max_wingspan_m": null,
+      "aircraft_code": "B",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "27",
+      "latitude": 58.8862389,
+      "longitude": 5.62643333,
+      "max_wingspan_m": null,
+      "aircraft_code": "B",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "36",
+      "latitude": 58.88501389,
+      "longitude": 5.632777778,
+      "max_wingspan_m": null,
+      "aircraft_code": "F",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "45",
+      "latitude": 58.89053889,
+      "longitude": 5.632877778,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "46",
+      "latitude": 58.89143333,
+      "longitude": 5.6326,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "47",
+      "latitude": 58.89164167,
+      "longitude": 5.632586111,
+      "max_wingspan_m": null,
+      "aircraft_code": "A",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "301",
+      "latitude": 58.88575833,
+      "longitude": 5.633033333,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "302",
+      "latitude": 58.886375,
+      "longitude": 5.633016667,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "303",
+      "latitude": 58.88698889,
+      "longitude": 5.632997222,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    }
+  ]
+}

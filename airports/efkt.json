@@ -1,0 +1,169 @@
+{
+  "$schema": "../schema/airport.schema.json",
+  "schema_version": 1,
+  "airport": {
+    "icao": "EFKT",
+    "name": "Kittilä",
+    "country": "Finland",
+    "latitude": 67.695562,
+    "longitude": 24.855053
+  },
+  "data_status": "unreviewed",
+  "reviewed_at": null,
+  "sources": [
+    {
+      "id": "vatsca-import",
+      "kind": "import",
+      "url": "https://github.com/Vatsim-Scandinavia/stands/blob/00fcf662237782e5ac300b14710f555730c3fbe0/public/data/efkt.json",
+      "reference": "VATSIM Scandinavia stands, public/data/efkt.json, commit 00fcf662237782e5ac300b14710f555730c3fbe0",
+      "effective_date": null,
+      "accessed_at": "2026-10-26"
+    }
+  ],
+  "stands": [
+    {
+      "id": "7",
+      "latitude": 67.698001,
+      "longitude": 24.85537,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "8",
+      "latitude": 67.697606,
+      "longitude": 24.855642,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "9",
+      "latitude": 67.69718,
+      "longitude": 24.855923,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "10",
+      "latitude": 67.696775,
+      "longitude": 24.85617,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "11",
+      "latitude": 67.696341,
+      "longitude": 24.856453,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "11B/12",
+      "latitude": 67.695917,
+      "longitude": 24.856499,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "13/13B",
+      "latitude": 67.695404,
+      "longitude": 24.856867,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "14",
+      "latitude": 67.695028,
+      "longitude": 24.857306,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "14B/15",
+      "latitude": 67.694672,
+      "longitude": 24.857344,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "16",
+      "latitude": 67.694193,
+      "longitude": 24.857834,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "17",
+      "latitude": 67.693782,
+      "longitude": 24.858024,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "18",
+      "latitude": 67.693387,
+      "longitude": 24.858332,
+      "max_wingspan_m": null,
+      "aircraft_code": "C",
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    }
+  ]
+}

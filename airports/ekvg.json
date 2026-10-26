@@ -1,0 +1,127 @@
+{
+  "$schema": "../schema/airport.schema.json",
+  "schema_version": 1,
+  "airport": {
+    "icao": "EKVG",
+    "name": "Vagar",
+    "country": "Faroe Islands",
+    "latitude": 62.06584953424172,
+    "longitude": -7.28071689605713
+  },
+  "data_status": "unreviewed",
+  "reviewed_at": null,
+  "sources": [
+    {
+      "id": "vatsca-import",
+      "kind": "import",
+      "url": "https://github.com/Vatsim-Scandinavia/stands/blob/00fcf662237782e5ac300b14710f555730c3fbe0/public/data/ekvg.json",
+      "reference": "VATSIM Scandinavia stands, public/data/ekvg.json, commit 00fcf662237782e5ac300b14710f555730c3fbe0",
+      "effective_date": null,
+      "accessed_at": "2026-10-26"
+    }
+  ],
+  "stands": [
+    {
+      "id": "1",
+      "latitude": 62.067540733768695,
+      "longitude": -7.281784415245056,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "2",
+      "latitude": 62.06732085802551,
+      "longitude": -7.280904650688172,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "3",
+      "latitude": 62.06710223713732,
+      "longitude": -7.28005975484848,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "4",
+      "latitude": 62.06695523255198,
+      "longitude": -7.279198765754701,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "5",
+      "latitude": 62.06679189328953,
+      "longitude": -7.278383374214173,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "22",
+      "latitude": 62.06592439332088,
+      "longitude": -7.281654667069846,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ],
+      "legacy_aircraft_code": "H",
+      "notes": "Upstream category H is outside ICAO code letters A-F. Preserved without interpretation; verify against original sources."
+    },
+    {
+      "id": "23",
+      "latitude": 62.06610407158693,
+      "longitude": -7.2799353710906,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ],
+      "legacy_aircraft_code": "H",
+      "notes": "Upstream category H is outside ICAO code letters A-F. Preserved without interpretation; verify against original sources."
+    },
+    {
+      "id": "24",
+      "latitude": 62.06596083165529,
+      "longitude": -7.2793560139375595,
+      "max_wingspan_m": null,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ],
+      "legacy_aircraft_code": "H",
+      "notes": "Upstream category H is outside ICAO code letters A-F. Preserved without interpretation; verify against original sources."
+    }
+  ]
+}

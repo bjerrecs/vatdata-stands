@@ -1,0 +1,97 @@
+{
+  "$schema": "../schema/airport.schema.json",
+  "schema_version": 1,
+  "airport": {
+    "icao": "EKAH",
+    "name": "Aarhus",
+    "country": "Denmark",
+    "latitude": 56.30709213962934,
+    "longitude": 10.626505168727613
+  },
+  "data_status": "unreviewed",
+  "reviewed_at": null,
+  "sources": [
+    {
+      "id": "vatsca-import",
+      "kind": "import",
+      "url": "https://github.com/Vatsim-Scandinavia/stands/blob/00fcf662237782e5ac300b14710f555730c3fbe0/public/data/ekah.json",
+      "reference": "VATSIM Scandinavia stands, public/data/ekah.json, commit 00fcf662237782e5ac300b14710f555730c3fbe0",
+      "effective_date": null,
+      "accessed_at": "2026-10-26"
+    }
+  ],
+  "stands": [
+    {
+      "id": "1",
+      "latitude": 56.30735278,
+      "longitude": 10.62513333,
+      "max_wingspan_m": 40,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "2",
+      "latitude": 56.30724444,
+      "longitude": 10.62655278,
+      "max_wingspan_m": 30,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "3",
+      "latitude": 56.30713056,
+      "longitude": 10.6278,
+      "max_wingspan_m": 30,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "4",
+      "latitude": 56.30701389,
+      "longitude": 10.62883056,
+      "max_wingspan_m": 40,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "15",
+      "latitude": 56.30745,
+      "longitude": 10.62404167,
+      "max_wingspan_m": 25,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    },
+    {
+      "id": "16",
+      "latitude": 56.30752222,
+      "longitude": 10.62347222,
+      "max_wingspan_m": 25,
+      "aircraft_code": null,
+      "approved_aircraft": null,
+      "prohibited_aircraft": null,
+      "source_ids": [
+        "vatsca-import"
+      ]
+    }
+  ]
+}

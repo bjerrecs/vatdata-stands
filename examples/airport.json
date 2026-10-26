@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/airport.schema.json",
+  "schema_version": 1,
+  "airport": {
+    "icao": "ZZZZ",
+    "name": "Example International Airport",
+    "country": "Example country",
+    "latitude": 55,
+    "longitude": 12
+  },
+  "data_status": "unreviewed",
+  "reviewed_at": null,
+  "sources": [
+    {
+      "id": "example-aip",
+      "kind": "aip",
+      "url": "https://example.com/aip/ZZZZ",
+      "reference": "Example AIP AD 2 ZZZZ, aircraft parking chart",
+      "effective_date": null,
+      "accessed_at": "2026-10-26"
+    }
+  ],
+  "stands": [
+    {
+      "id": "A1",
+      "latitude": 55.001,
+      "longitude": 12.001,
+      "max_wingspan_m": 36,
+      "aircraft_code": "C",
+      "approved_aircraft": [
+        "A320",
+        "B738"
+      ],
+      "prohibited_aircraft": [
+        "B739"
+      ],
+      "source_ids": [
+        "example-aip"
+      ],
+      "notes": "Illustrative restrictions only."
+    }
+  ]
+}
